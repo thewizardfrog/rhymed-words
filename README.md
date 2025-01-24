@@ -1,4 +1,4 @@
-# Algorithm Project
+# Rhymed Words Project
 
 ## Overview
 This project contains an implementation of an algorithm in JavaScript. The code is structured to achieve optimal performance while maintaining readability and ease of use. It can be adapted or extended to suit a variety of use cases.
